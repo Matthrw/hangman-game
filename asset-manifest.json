@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hangman-game/static/css/main.edb1fc73.css",
+    "main.js": "/hangman-game/static/js/main.a06639fe.js",
+    "index.html": "/hangman-game/index.html",
+    "main.edb1fc73.css.map": "/hangman-game/static/css/main.edb1fc73.css.map",
+    "main.a06639fe.js.map": "/hangman-game/static/js/main.a06639fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edb1fc73.css",
+    "static/js/main.a06639fe.js"
+  ]
+}
