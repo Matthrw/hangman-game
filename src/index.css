@@ -1,0 +1,13 @@
+.empty-box-container {
+  display: flex;
+}
+.empty-box {
+  width: 30px;
+  height: 30px;
+  margin-left: 10px;
+  border: 1px solid black;
+}
+
+button {
+  margin-left: 20px;
+}
